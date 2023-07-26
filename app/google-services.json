@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698964419221",
+    "project_id": "justalkapp-64364",
+    "storage_bucket": "justalkapp-64364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698964419221:android:a833b365a55099c9f1b19c",
+        "android_client_info": {
+          "package_name": "com.jspadda.justalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698964419221-1iro6hl5r08eap8ge7pi1deuk0l5kqp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHUSYLE8lY7eAhMCEL_kPDs_X0hX135Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698964419221-1iro6hl5r08eap8ge7pi1deuk0l5kqp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
